@@ -176,12 +176,6 @@ npm install
 npm run start:dev
 ```
 
-### Run Tests
-
-```bash
-npm test
-```
-
 ## ✨ Future Enhancements
 
 * Authentication & Authorization
